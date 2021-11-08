@@ -20,6 +20,6 @@
   <code><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></code>
 </div>
 
-## GitHub Stats
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BolaGhaly&show_icons=true&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BolaGhaly&theme=dark)

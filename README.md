@@ -21,6 +21,6 @@
 </div>
 
 ## GitHub Stats:
-<p>![](https://github-readme-stats.vercel.app/api?username=BolaGhaly&show_icons=true&theme=dark)</p>
+![](https://github-readme-stats.vercel.app/api?username=BolaGhaly&show_icons=true&theme=dark)
 <br>
-<p>![](https://github-readme-stats.vercel.app/api/top-langs/?username=BolaGhaly&theme=dark)</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BolaGhaly&theme=dark)

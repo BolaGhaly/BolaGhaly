@@ -22,8 +22,10 @@
   </div>
 </div>
 
+<div align="center">
   <h2>GitHub Stats:</h2>
 
   ![Github stats](https://github-readme-stats.vercel.app/api?username=BolaGhaly&show_icons=true&theme=dark)
   <br>
   ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BolaGhaly&theme=dark)
+<div>

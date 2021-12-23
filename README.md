@@ -9,6 +9,7 @@
   <p>:video_game:I like to play video games.</p>
   <p>:soccer::weight_lifting_man:...and I like to play sports and workout.</p>
 
+<div align="center">
   <h2>Languages and Tools:</h2>
   <div>
     <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
@@ -19,6 +20,7 @@
     <code><img src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=white"></code>
     <code><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></code>
   </div>
+</div>
 
   <h2>GitHub Stats:</h2>
 

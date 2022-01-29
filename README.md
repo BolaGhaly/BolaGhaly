@@ -1,6 +1,7 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-BolaGhaly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bolaghaly63/)](https://www.linkedin.com/in/bolaghaly63/)
+[![Linkedin Badge](https://img.shields.io/badge/-BolaGhaly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bolaghaly63/)](https://www.linkedin.com/in/bolaghaly63/) ![](https://komarev.com/ghpvc/?username=BolaGhaly)
+
 
 <h2 align="center">About me:</h2>
 

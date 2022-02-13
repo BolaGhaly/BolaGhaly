@@ -1,5 +1,5 @@
 <div align="center">
-# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"/>
+<h1>Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"/> </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-BolaGhaly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bolaghaly63/)](https://www.linkedin.com/in/bolaghaly63/)
 </div>

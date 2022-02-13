@@ -28,5 +28,5 @@
 
   ![Github stats](https://github-readme-stats.vercel.app/api?username=BolaGhaly&show_icons=true&theme=dark&include_all_commits=true)
   <br>
-  ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BolaGhaly&theme=dark&layout=compact&card_width=495)
+  ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BolaGhaly&theme=dark&layout=compact&card_width=490)
 <div>

@@ -26,7 +26,7 @@
 <div align="center">
   <h2>GitHub Stats:</h2>
 
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=BolaGhaly&show_icons=true&theme=dark&include_all_commits=true)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=BolaGhaly&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true)
   <br>
   ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BolaGhaly&theme=dark&layout=compact)
 <div>

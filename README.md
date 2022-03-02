@@ -10,15 +10,13 @@
 
 <div align="center">
   <h2>Languages and Tools:</h2>
-  <div>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-    <code><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-    <code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
-    <code><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"></code>
-    <code><img src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=white"></code>
-    <code><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></code>
-  </div>
+    <kbd> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> </kbd>
+    <kbd> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> </kbd>
+    <kbd> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> </kbd>
+    <kbd> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> </kbd>
+    <kbd> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"> </kbd>
+    <kbd> <img src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=white"> </kbd>
+    <kbd> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"> </kbd>
 </div>
 
 <div align="center">

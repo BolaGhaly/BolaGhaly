@@ -11,7 +11,7 @@
 <div align="center">
   <h2>Languages and Tools:</h2>
   <div>
-    <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
     <code><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
     <code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
@@ -24,7 +24,6 @@
 <div align="center">
   <h2>GitHub Stats:</h2>
 
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=BolaGhaly&show_icons=true&theme=dark)
-  <br>
-  ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BolaGhaly&theme=dark&layout=compact&card_width=445&langs_count=10)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BolaGhaly&show_icons=true&include_all_commits=true&theme=prussian&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolaGhaly&layout=compact&theme=prussian&hide_border=true&card_width=445&langs_count=10" />
 <div>

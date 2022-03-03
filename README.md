@@ -1,5 +1,5 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"/>
-<a href="https://www.linkedin.com/in/bolaghaly63/"> <img src="https://img.shields.io/badge/-BolaGhaly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bolaghaly63/"/> </a>
+<a href="https://www.linkedin.com/in/bolaghaly63/"> <img src="https://img.shields.io/badge/-BolaGhaly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bolaghaly63/" width="110px"/> </a>
   
 <div>
 <h2 align="center">About me:</h2>

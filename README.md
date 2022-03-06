@@ -10,6 +10,11 @@
 </div>
 
 <div align="center">
+      <h2>Check out my portfolio! :grinning:</h2>
+    <a href="https://bolaghaly.netlify.app/"> <img src="https://user-images.githubusercontent.com/59656591/156482053-fc8be59a-981c-4df9-a43a-d8eaa057cc8e.gif"  width="495px" /></a>
+</div>
+
+<div align="center">
   <h2>Languages and Tools:</h2>
     <kbd> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> </kbd>
     &nbsp;
@@ -32,9 +37,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BolaGhaly&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" />
   <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolaGhaly&layout=compact&theme=github_dark&hide_border=true&card_width=445&langs_count=10" />
-</div>
-
-<div align="center">
-      <h2>Check out my portfolio! :grinning:</h2>
-    <a href="https://bolaghaly.netlify.app/"> <img src="https://user-images.githubusercontent.com/59656591/156482053-fc8be59a-981c-4df9-a43a-d8eaa057cc8e.gif"  width="495px" /></a>
 </div>

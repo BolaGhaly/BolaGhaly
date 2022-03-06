@@ -31,7 +31,7 @@
     <kbd> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /> </kbd>
     &nbsp;
 </div>
-
+<br/>
 <div align="center">
   <h2>GitHub Stats:</h2>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BolaGhaly&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" />

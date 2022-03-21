@@ -13,24 +13,6 @@
       <h2>Check out my portfolio! :grinning:</h2>
     <a href="https://bolaghaly.netlify.app/"> <img src="https://user-images.githubusercontent.com/59656591/156482053-fc8be59a-981c-4df9-a43a-d8eaa057cc8e.gif"  width="495px" /></a>
 </div>
-
-<div align="center">
-  <h2>Languages and Tools:</h2>
-    <kbd> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> </kbd>
-    &nbsp;
-    <kbd> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </kbd>
-    &nbsp;
-    <kbd> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> </kbd>
-    &nbsp;
-    <kbd> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> </kbd>
-    &nbsp;
-    <kbd> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" /> </kbd>
-    &nbsp;
-    <kbd> <img src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=white" /> </kbd>
-    &nbsp;
-    <kbd> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /> </kbd>
-    &nbsp;
-</div>
 <br/>
 <div align="center">
   <h2>GitHub Stats:</h2>

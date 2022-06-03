@@ -1,5 +1,5 @@
-# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"/>
-<a href="https://www.linkedin.com/in/bolaghaly/" target="_blank"> <img src="https://img.shields.io/badge/-BolaGhaly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bolaghaly63/" width="104px"/> </a>
+# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>
+<a href="https://www.linkedin.com/in/bolaghaly/" target="_blank"> <img src="https://img.shields.io/badge/-BolaGhaly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bolaghaly63/" width="100"/> </a>
   
 <div>
 <h2 align="center">About me</h2>
@@ -11,7 +11,7 @@
 
 <div align="center">
       <h2>Check out my portfolio! :grinning:</h2>
-    <a href="https://bolaghaly.netlify.app/"> <img src="https://user-images.githubusercontent.com/59656591/156482053-fc8be59a-981c-4df9-a43a-d8eaa057cc8e.gif"  width="495px" /></a>
+    <a href="https://bolaghaly.netlify.app/"> <img src="https://user-images.githubusercontent.com/59656591/156482053-fc8be59a-981c-4df9-a43a-d8eaa057cc8e.gif"  width="495" /></a>
 </div>
 <br/>
 <div align="center">

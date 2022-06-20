@@ -18,5 +18,5 @@
   <h2>GitHub Stats</h2>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BolaGhaly&show_icons=true&theme=github_dark&hide_border=true" />
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolaGhaly&layout=compact&theme=github_dark&hide_border=true&card_width=445&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolaGhaly&layout=compact&theme=github_dark&hide_border=true&card_width=445&langs_count=10&exclude_repo=CSC332-Operating-System-Project" />
 </div>

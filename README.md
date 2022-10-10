@@ -10,5 +10,5 @@
 <h2>GitHub Stats</h2>
 <div>
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=BolaGhaly&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&stroke=00d05f&ring=D6001C&fire=D6001C&currStreakLabel=cbcbcb&dates=A0A0A0&sideLabels=cbcbcb&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolaGhaly&layout=compact&background=00000000&card_width=445&langs_count=10&title_color=FEFEFE&exclude_repo=CSC332-Operating-System-Project&hide_border=true" width="495" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolaGhaly&layout=compact&background=00000000&card_width=445&langs_count=10&title_color=2e67f0&exclude_repo=CSC332-Operating-System-Project&hide_border=true" width="495" />
 </div>

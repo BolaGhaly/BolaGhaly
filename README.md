@@ -9,6 +9,6 @@
 
 <h2>GitHub Stats</h2>
 <div>
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=BolaGhaly&background=0D1117&date_format=M%20j%5B%2C%20Y%5D&stroke=00d05f&ring=D6001C&fire=D6001C&currStreakLabel=d0d0d0&sideLabels=d0d0d0&dates=ffe5af&sideNums=d0d0d0&currStreakNum=d0d0d0&border_radius=5&hide_border=true" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=BolaGhaly&background=0D1117&date_format=M%20j%5B%2C%20Y%5D&stroke=00d05f&ring=D6001C&fire=D6001C&currStreakLabel=d0d0d0&sideLabels=d0d0d0&dates=ffe5af&sideNums=d0d0d0&currStreakNum=d0d0d0&border_radius=5&hide_border=true" height="195" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolaGhaly&layout=compact&card_width=445&langs_count=10&bg_color=0D1117&title_color=d0d0d0&text_color=d0d0d0&exclude_repo=CSC332-Operating-System-Project&hide_border=true" height="195" />
 </div>

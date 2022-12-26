@@ -9,5 +9,5 @@
 
 <h2>GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolaGhaly&langs_count=10&hide=C&layout=compact&theme=transparent&hide_border=true&title_color=007EC6&text_color=007EC6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolaGhaly&langs_count=10&hide=C&layout=compact&theme=github_dark&hide_border=true&title_color=e4e4e4&text_color=cbcbcb" />
 

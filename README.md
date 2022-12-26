@@ -6,3 +6,8 @@
 <p>:computer: I am passionate about everything related to Web Development and I am learning new frameworks and concepts.</p>
 <p>:video_game: I like to play video games.</p>
 <p>:soccer::weight_lifting_man: ...and I like to play sports and workout.</p>
+
+<h2>GitHub Stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolaGhaly&langs_count=10&hide=C&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF" />
+

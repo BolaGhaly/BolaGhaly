@@ -1,5 +1,5 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />
-<a href="https://www.linkedin.com/in/bolaghaly/" target="_blank"> <img src="https://img.shields.io/badge/-BolaGhaly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bolaghaly63/" width="100"/> </a>
+<a href="https://www.linkedin.com/in/bolaghaly/" target="_blank"> <img src="https://img.shields.io/badge/-BolaGhaly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bolaghaly/" width="100"/> </a>
   
 <h2>About Me</h2>
 <p>:man_student: Computer Science graduate with a bachelor’s degree from CUNY College of Staten Island, New York.</p>

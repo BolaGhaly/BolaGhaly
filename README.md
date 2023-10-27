@@ -1,3 +1,5 @@
+<a href="https://bolaghaly.netlify.app/"> <img src="https://github.com/BolaGhaly/BolaGhaly/blob/main/assets/Github_Readme_Banner.svg" alt="Github-readme-banner" /> </a>
+
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />
 <a href="https://www.linkedin.com/in/bolaghaly/" target="_blank"> <img src="https://img.shields.io/badge/-BolaGhaly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bolaghaly/" width="100"/> </a>
   
